@@ -1,0 +1,4 @@
+interface:
+  display_name: "薛辉八大选题扩展器"
+  short_description: "用八大爆款元素组合生成可拍的短视频选题"
+  default_prompt: "Use $xuehui-topic-expander to generate diverse short-video topics for my niche."
